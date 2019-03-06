@@ -3,7 +3,7 @@
 ## PHP-Kata Star Wars API
 
 ### 1 part
-You are R2D2 and you have to download part of the Imperial Operating System’s Cybersecurity Center of Excel ence API.  
+You are R2D2 and you have to download part of the Cybersecurity Center of Excel ence API.  
  
 The base url is ​https://death.star.api/​ ​(*Not a valid URL) 
  
