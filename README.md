@@ -1,6 +1,7 @@
 # php-kata-starwars
 PHP-Kata Star Wars API
 
+# 1 part
 You are R2D2 and you have to download part of the Imperial Operating System’s Cybersecurity Center of Excel ence API.  
  
 The base url is ​https://death.star.api/​ ​(*Not a valid URL) 
@@ -18,7 +19,6 @@ The system requires an ssl certificate and key to be sent with every request, in
  
 Endpoint Details:
 
-###### 1. End point
 ``` 
 Endpoint: /token
 ``` 
@@ -84,3 +84,25 @@ Endpoint: /prisoner/leia
                  Authorization: Bearer [token]    
                  Content-Type: application/json 
 ```
+
+# 2 part
+
+As witty astromech droid, you wil  be cal ed on by witless humans to hack complicated defence systems on a fly. So you 
+have decided to mock the response as a series of ​unit tests​. Long before you arrive at the death star. These tests should 
+cover success and failure. You know that each endpoint wil  be  Droidspeak(Binary). You wil  need to process this and 
+return in galactic basic (english). Write a service to undertake this. 
+ 
+ 
+```
+Endpoint: /prisoner/leia,
+```  
+
+``` 
+          { 
+             "cel ":  "01000011 01100101 01101100 01101100 00100000 00110010 00110001 00111000 00110111", 
+             "block": "01000100 01100101 01110100 01100101 01101110 01110100 01101001 01101111 01101110 
+                       00100000 01000010 01101100 01101111 01100011 01101011 00100000 01000001 01000001 00101101 00110010 
+                       00110011 00101100" 
+          } 
+```
+ 
