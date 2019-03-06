@@ -1,7 +1,8 @@
 # php-kata-starwars
-PHP-Kata Star Wars API
 
-# 1 part
+## PHP-Kata Star Wars API
+
+### 1 part
 You are R2D2 and you have to download part of the Imperial Operating System’s Cybersecurity Center of Excel ence API.  
  
 The base url is ​https://death.star.api/​ ​(*Not a valid URL) 
@@ -85,7 +86,7 @@ Endpoint: /prisoner/leia
                  Content-Type: application/json 
 ```
 
-# 2 part
+### 2 part
 
 As witty astromech droid, you wil  be cal ed on by witless humans to hack complicated defence systems on a fly. So you 
 have decided to mock the response as a series of ​unit tests​. Long before you arrive at the death star. These tests should 
